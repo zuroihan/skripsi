@@ -1,0 +1,2 @@
+# skripsi
+mengawali pembuatan skripsi
